@@ -67,7 +67,7 @@ The dataset used is the **Weather Australia dataset** (Kaggle).
 ---
 
 ## 📈 Results
-
+---
 The model shows strong performance:
 -Accuracy: 0.8481025711535818
 Precision: 0.688737973967176
