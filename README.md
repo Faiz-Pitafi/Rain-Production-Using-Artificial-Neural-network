@@ -67,13 +67,12 @@ The dataset used is the **Weather Australia dataset** (Kaggle).
 ---
 
 ## 📈 Results
----
-The model shows strong performance:
--Accuracy:0.8481025711535818
-precision:0.688737973967176
-Recall:0.5686915887850468
-F1 score:0.6229843869976964
----
+## 📊 Model Performance
+
+> 🟢 **Accuracy:** 0.8481  
+> 🟡 **Precision:** 0.6887  
+> 🔵 **Recall:** 0.5687  
+> 🔴 **F1 Score:** 0.6230  
 
 ## 📊 Graphs
 
