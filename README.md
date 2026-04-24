@@ -83,7 +83,7 @@ The dataset used is the **Weather Australia dataset** (Kaggle).
 ![Loss](loss.png)
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Confusion_Matrix.png)
 
 ---
 
